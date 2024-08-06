@@ -22,7 +22,7 @@ A deep neural network learns by adjusting its weights and biases during the trai
 To get started with this project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/HedyehRahmani/Prediction-Employee-Attrition.git
+git clone https://github.com/HedyehRahmani/Tensorflow-and-Neural-networks-analysis.git
 pip install -r requirements.txt
 ```
 
